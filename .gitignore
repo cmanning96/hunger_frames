@@ -1,2 +1,4 @@
 .DS_Store
 __pycache__/
+images/*_blue.png
+images/*_copy.png
